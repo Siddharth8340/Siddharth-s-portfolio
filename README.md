@@ -21,4 +21,4 @@ This is my **personal portfolio website** built using **HTML, CSS, and JavaScrip
 ## 🚀 How to Use
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-/your-repo-name.git
+   (https://github.com/Siddharth8340/Siddharth-s-portfolio)
